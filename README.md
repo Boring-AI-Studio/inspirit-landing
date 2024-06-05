@@ -1,1 +1,1 @@
-# inspirit-landing
+# InSpirit
